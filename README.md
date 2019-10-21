@@ -1,3 +1,3 @@
 # LeetCode
 some about LeetCode
-java
+solution==>java
